@@ -1,0 +1,16 @@
+#pymysql
+pymysql==1.1.1
+
+#typer
+click==8.1.7
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pygments==2.18.0
+rich==13.9.4
+shellingham==1.5.4
+typer==0.13.1
+typing_extensions==4.12.2
+
+#jinja2
+MarkupSafe==3.0.2
+jinja2==3.1.4
